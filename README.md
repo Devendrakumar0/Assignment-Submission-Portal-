@@ -1,0 +1,1 @@
+The Assignment Submission Portal is a robust backend system built using Flask and MongoDB, designed to streamline assignment management between users and admins. Users can submit assignments for review, and admins can review, accept, or reject them. The project uses JWT-based authentication for secure user and admin logins, ensuring data integrity and security.
